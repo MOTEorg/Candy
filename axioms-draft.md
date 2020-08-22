@@ -1,10 +1,10 @@
-#Initial axiom
+# Initial axiom
 ## Necessary condition to make a start point.
 1. You understand the following axioms.
 
 
-#Philosophical principles
-##All other axioms are based on these ones
+# Philosophical principles
+## All other axioms are based on these ones
 1. Not contradiction: A can't be A and not-A in the same sense or meaning of to be simulteanosly A 
 2. Identity: A is A
 3. Exclusion: A or not-A (Binarism)
