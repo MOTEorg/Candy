@@ -5,7 +5,7 @@ However some facts are evident and as an axiom does not need a formal proof.
 + **C**: Common
 + **A**: axioms
 + **N**: nulling
-+ **D**: disaspereating
++ **D**: drowned
 + **Y**: yawns
 
 Candies are small, are sweet and are good in a small quantity.
